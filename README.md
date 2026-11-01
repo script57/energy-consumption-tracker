@@ -25,3 +25,4 @@ pytest tests/
 
 ## Baglantilar
 * **GitHub Repository:** https://github.com/script57/energy-consumption-tracker
+* **Kanban Board URL:** [https://github.com/users/script57/projects/1/views/1]
